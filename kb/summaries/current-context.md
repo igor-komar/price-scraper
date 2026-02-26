@@ -1,6 +1,6 @@
 # Product Current Context
 
-Last updated: 2026-02-25
+Last updated: 2026-02-26
 
 ## Goals
 - Define initial Product objectives in `GOALS.md`.
@@ -8,3 +8,6 @@ Last updated: 2026-02-25
 
 ## Next actions
 - Flesh out architecture and first feature tickets.
+
+## Stable reference
+- `price-scraper/kb/topics/workspace-integration-baseline.md`
