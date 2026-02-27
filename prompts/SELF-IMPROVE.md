@@ -1,8 +1,12 @@
-# Product Self-Improve Prompt (Template)
+# Product Self-Improve Prompt
 
-Review the full Product codebase and propose reliability/quality improvements.
+Goal: improve product reliability and quality with clear user impact.
 
-Requirements:
-- Prioritize user-visible impact and operational stability.
-- Create or update tickets with acceptance criteria and verification.
-- Avoid speculative refactors without measurable value.
+Search for possibilities of:
+- reducing duplication in code and KB/docs
+- improving clarity
+- much better naming
+- removing unused code
+
+Write your proposals into issues/proposals folder of product repo. 
+Ensure you don't create duplicate issues.
