@@ -17,7 +17,7 @@ Product execution requires explicit goals, architecture, and constraints.
 ## Acceptance Criteria
 
 - [ ] Finalize `price-scraper/GOALS.md` with measurable outcomes.
-- [ ] Add architecture overview doc and major component boundaries.
+- [ ] Add architecture overview doc and major stage boundaries.
 - [ ] Define non-functional requirements (reliability, latency, cost).
 - [ ] Add initial product glossary entries.
 
